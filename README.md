@@ -6,4 +6,7 @@ Aplicación donde hacemos uso de Sockets + React, para monitorear datos en tiemp
 - Manejo de un objeto compartido entre multiples clientes
 - Integración básica de Socket.io con React
 - Sincronización de todos los clientes
-
+- Custom Hooks - useSocket
+- SocketContext
+- Gráficas en tiempo real
+- Estado de la conexión visual
